@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="тфьу_йгфыешщт">Вопрос</string>
+    <string name="optional_one">вариант а</string>
+    <string name="optional_two">вариант б</string>
+    <string name="optional_three">вариант в</string>
+    <string name="btn_next">Следующий вопрос</string>
+    <string name="won_btn_share">Поделиться результатом</string>
+</resources>

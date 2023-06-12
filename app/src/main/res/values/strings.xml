@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Quiz_app</string>
+
+    <string name="match_the_c">MATCH THE COVER OF THE BOOK WITH ITS FIRST LINE</string>
+    <string name="main_button">PLAY</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="time_out">Время закончилось...</string>
+    <string name="try_again">Попробовать заново</string>
+    <string name="some_id">Вопрос</string>
+    <string name="name_quastion">Вопрос</string>
+    <string name="optional_one">вариант а</string>
+    <string name="optional_two">вариант б</string>
+    <string name="optional_three">вариант в</string>
+    <string name="btn_next">Следующий вопрос</string>
+    <string name="won_btn_share">Поделиться результатом</string>
+</resources>
